@@ -1,0 +1,24 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.wt_pklist_checkout_inserter_form{display: none;}
+.wt_pklist_new_custom_field_title{width:100%; float:left;}
+.wt_pklist_new_custom_field_title table td:first-child{width: 30%;}
+.wt_pklist_new_custom_field_title table td{width: 50%;}
+.wt_pklist_new_custom_field_key{width:100%; float:left;}
+.wt_pklist_new_custom_field_key table td:first-child{width: 30%;}
+.wt_pklist_new_custom_field_key table td{width: 50%;}
+.wt_pklist_new_custom_field_title input[type="text"]{width: 100%;}
+.wt_pklist_new_custom_field_key input[type="text"]{width:100%;}
+.meta_key_help_text{font-size: 10px;color: #67717E;}
+.wt_pklist_new_custom_field_title_placeholder{width:100%; float:left;}
+.wt_pklist_new_custom_field_title_placeholder table td{width: 50%;}
+.wt_pklist_new_custom_field_title_placeholder table td:first-child{width: 30%;}
+.wt_pklist_new_custom_field_title_placeholder input[type="text"]{width:100%;}
+.wt_pklist_custom_field_tab_form_row .is_mandatory_div{width:100%; float:left;}
+.wt_pklist_custom_field_tab_form_row .is_mandatory_div table td{width: 50%;}
+.wt_pklist_custom_field_tab_form_row .is_mandatory_div table td:first-child{width: 30%;}
+.wt_pklist_custom_field_tab_form_row .is_mandatory_div .is_mandatory_inner_div{width:100%; height:32px; margin-top:10px;margin-left: 10px;}
+.wt_pklist_custom_field_tab_form_row .is_mandatory_div .is_mandatory_inner_div span{display:inline-block; margin:3px 10px;}
